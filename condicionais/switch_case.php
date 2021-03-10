@@ -7,7 +7,7 @@
 
     break;
 
-    case "Vermelho":
+    case "Verde":
     echo "Sua cor preferida é o verde"; 
     break;
 

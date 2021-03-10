@@ -14,4 +14,7 @@ if($qualASuaIdade < $idadeCrianca){
     echo 'Idoso';
 }
 
+echo '<br>';
+
+echo ($qualASuaIdade < $idadeMaior)?"Menor de Idade":"Maior de Idade";
 ?>
