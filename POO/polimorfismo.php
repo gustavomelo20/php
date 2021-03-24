@@ -44,7 +44,7 @@ class Gato extends Animal{
 class Passaro extends Animal{
 
 
-    public function falar(){
+    public function falar(){''
 
         return "Canta";
  
